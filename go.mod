@@ -1,4 +1,4 @@
-module github.com/leary1337/td
+module github.com/gotd/td
 
 go 1.19
 
